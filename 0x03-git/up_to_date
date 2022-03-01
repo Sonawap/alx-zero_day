@@ -1,0 +1,3 @@
+git command used to get changes from main ranch on github is
+
+git pull origin main
